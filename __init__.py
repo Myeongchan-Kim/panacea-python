@@ -1,0 +1,1 @@
+from panacea import Panacea
