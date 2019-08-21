@@ -89,6 +89,5 @@ def is_ip(text):
 
 if __name__ == "__main__":
 
-    node = PanaceaNode('127.0.0.1')
+    node = PanaceaNode('localhost')
     pprint(node.get_info())
-    
