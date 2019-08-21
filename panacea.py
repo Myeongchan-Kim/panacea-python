@@ -26,7 +26,7 @@ class PanaceaNode(object):
     def get_acc_addr(self):
         return self.__addr
 
-    def make_response(self, url, data=None):
+    def get_response(self, url, data=None):
         try:
             response = requests.get(url, data=data)
             data = json.loads(response.content)
@@ -50,7 +50,7 @@ class PanaceaNode(object):
 
     def renew_status(self):
         url = "http://{}:{}/node_info".format(self.__ip, self.__port)
-        result_output = self.make_response(url)
+        result_output = self.get_response(url)
         if result_output is None:
             return None
 
