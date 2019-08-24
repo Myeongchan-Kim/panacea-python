@@ -9,10 +9,6 @@ Welcome to panacea-python's documentation!
 Installation
 ============
 
-Here is sume text explanining about installation...::
-
-    print "Hello"
-    >> hello
 
 Guide
 ^^^^^
