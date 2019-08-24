@@ -28,6 +28,9 @@ $ cd {your project dir}
   - clone this repo
 ```sh
 $ git clone https://github.com/Paul-Kim/panacea-python.git
+$ cd panacea-python
+$ pip install -r requirment.txt
+$ cd ..  # back to your project directory
 ```
 
 ```python
