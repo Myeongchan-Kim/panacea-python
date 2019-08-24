@@ -2,12 +2,12 @@
 Python library to use panancea
 
 
-# Requirment 
+## Requirment 
   - Go 1.12++
   - Panacea-core : [here](https://medibloc.gitbook.io/panacea-core/).
   - Panacea Light Demon Client : [here](https://medibloc.gitbook.io/panacea-core/guide/clients).
 
-# Check-up before setup
+## Check-up before setup
   - Panacea LCD check 
 ```sh
 ## To chek panacead status
