@@ -4,6 +4,7 @@ Python library to use panancea (panacea git repository: https://github.com/medib
 
 ## Requirment 
   - Go 1.12++
+  - Python 3.7++
   - Panacea-core : [here](https://medibloc.gitbook.io/panacea-core/).
   - Panacea Light Demon Client : [here](https://medibloc.gitbook.io/panacea-core/guide/clients).
   
