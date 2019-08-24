@@ -3,6 +3,7 @@ Python library to use panancea (panacea git repository: https://github.com/medib
 
 
 ## Requirment 
+  - Supported OS : Ubuntu 18.04
   - Go 1.12++
   - Python 3.7++
   - Panacea-core : [here](https://medibloc.gitbook.io/panacea-core/).
