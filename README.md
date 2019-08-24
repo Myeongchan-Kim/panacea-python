@@ -37,3 +37,6 @@ $ cd ..  # back to your project directory
 ```python
 import panacea
 ```
+
+### How to use
+Please see the official docs [here](https://panacea-python.readthedocs.io/en/latest/)
