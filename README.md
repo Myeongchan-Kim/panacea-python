@@ -6,8 +6,8 @@ Python library to use panancea (panacea git repository: https://github.com/medib
   - Supported OS : Ubuntu 18.04
   - Go 1.12++
   - Python 3.7++
-  - Panacea-core : [here](https://medibloc.gitbook.io/panacea-core/).
-  - Panacea Light Demon Client : [here](https://medibloc.gitbook.io/panacea-core/guide/clients).
+  - Panacea-core : [here](https://medibloc.gitbook.io/panacea-core/)
+  - Panacea Light Demon Client : [here](https://medibloc.gitbook.io/panacea-core/guide/clients)
   
 ## Installation
 ### Check-up before setup
