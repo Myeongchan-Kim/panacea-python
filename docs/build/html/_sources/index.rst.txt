@@ -9,6 +9,11 @@ Welcome to panacea-python's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   contents
+   license
+   help
+
 
 
 
