@@ -1,5 +1,5 @@
 # panacea-python
-Python library to use panancea
+Python library to use panancea (panacea git repository: https://github.com/medibloc/panacea-core)
 
 
 ## Requirment 
